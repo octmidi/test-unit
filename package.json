@@ -1,0 +1,15 @@
+{
+  "name": "exercise-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "<!--hide-->\r # Unit testing with Jest\r <!--endhide-->",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
